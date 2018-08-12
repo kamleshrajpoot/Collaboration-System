@@ -130,3 +130,9 @@ After installing django -reversion compare module, copy the patch file from 'tem
  Git:
 
  Created a develop branch
+ 
+ 
+ 
+ Documentation Link:https://drive.google.com/file/d/0B25cvcDlUXjJbUVfTy1VT0dKdV9EeXFTUFU0YzRLOUhSZnZN/view?usp=sharing
+ or https://drive.google.com/file/d/0B25cvcDlUXjJZG5HYURUcGFvdFptQkRfZkJGb05VMFpZQ1FN/view?usp=sharing
+ or https://fresearchgroup.github.io/docs-collaboration-system/docs/introduction.html
